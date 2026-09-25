@@ -1,52 +1,117 @@
-DSA.java
-Data Structures and Algorithms using Java
+<div align="center">
 
-This repository contains my journey of learning and practicing Data Structures and Algorithms with Java.
+☕ DSA.java
+Data Structures & Algorithms using Java
 
-I am building this repository step by step to improve my problem-solving skills, strengthen my Java fundamentals, and prepare for coding interviews.
+Learning DSA • Solving Problems • Building Strong Fundamentals
 
-Topics
-Arrays
-Strings
-Searching
-Sorting
-Recursion
-Linked List
-Stack
-Queue
-Trees
-Graphs
+<br>
+
+<img src="https://skillicons.dev/icons?i=java" width="60"/>
+
+</div>
+
+About
+
+This repository contains my Data Structures and Algorithms practice in Java.
+
+I am using this repository to learn concepts, implement them from scratch, solve coding problems, and improve my problem-solving skills.
+
+DSA Roadmap
+Topic	Status
+Arrays	🟢 Learning
+Strings	🟡 Next
+Searching	🟡 Next
+Sorting	🟡 Next
+Recursion	⚪ Planned
+Linked List	⚪ Planned
+Stack	⚪ Planned
+Queue	⚪ Planned
+Trees	⚪ Planned
+Graphs	⚪ Planned
 Repository Structure
 DSA.java/
 │
 ├── Arrays/
+│   ├── ArrayTraversal.java
+│   ├── FindMaximum.java
+│   ├── FindMinimum.java
+│   └── ReverseArray.java
+│
 ├── Strings/
+│
 ├── Searching/
+│
 ├── Sorting/
+│
 ├── Recursion/
+│
 ├── LinkedList/
+│
 ├── Stack/
+│
 ├── Queue/
+│
 ├── Trees/
+│
 └── Graphs/
-Language
+What I'm Practicing
+Arrays
+✓ Traversal
+✓ Searching
+✓ Finding maximum & minimum
+✓ Reversing an array
+✓ Basic array problems
+Strings
+○ String traversal
+○ Reverse string
+○ Palindrome
+○ Character frequency
+Searching
+○ Linear Search
+○ Binary Search
+Sorting
+○ Bubble Sort
+○ Selection Sort
+○ Insertion Sort
+Problem-Solving Approach
+        Learn Concept
+             ↓
+       Understand Logic
+             ↓
+        Write Java Code
+             ↓
+        Test the Code
+             ↓
+    Analyze Complexity
+             ↓
+        Solve Problems
+Complexity Analysis
 
-Java
+I am also learning to understand the efficiency of my solutions.
 
-Learning Approach
+Example:
 
-I follow a simple approach:
+Array Traversal
 
-Learn → Implement → Practice → Improve
+Time Complexity  : O(n)
+Space Complexity : O(1)
+Tools
 
-Each topic will contain Java programs and problems that I solve while learning DSA.
+<p align="center">
 
-Progress
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
 
-This repository is continuously updated as I learn new concepts and solve new problems.
-
-Currently learning: Arrays and basic problem solving
+</p>
 
 Goal
 
-Build strong DSA fundamentals and become better at solving programming problems using Java.
+My goal is to build strong fundamentals in Data Structures and Algorithms, improve my problem-solving ability, and prepare for coding interviews and placements.
+
+<div align="center">
+
+Learn → Code → Practice → Improve
+
+This repository is continuously updated as I learn DSA.
+
+</div>
